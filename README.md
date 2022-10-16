@@ -63,7 +63,7 @@ We are working on an improvement regarding that issue.
 
 **Helge Vatheuer** - [GitHub](https://github.com/hlgvth), [E-Mail](mailto:helge.vatheuer@tu-dortmund.de)<br>
 **Marcel Baltruschat** - [GitHub](https://github.com/mrcblt), [E-Mail](mailto:marcel.baltruschat@tu-dortmund.de)<br>
-**Paul Czodrowski** - [GitHub](https://github.com/czodrowskilab), [E-Mail](mailto:paul.czodrowski@tu-dortmund.de)
+**Paul Czodrowski** - [GitHub](https://github.com/czodrowskilab), [E-Mail](mailto:czodpaul@uni-mainz.de)
 
 ## License
 
